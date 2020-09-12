@@ -1,0 +1,19 @@
+.home__form {
+  border-radius: 5px;
+  padding: 15px;
+  z-index: 1;
+  background-color: #e9e9eb;
+}
+
+.home__formControl {
+  display: flex !important;
+  flex-direction: row !important;
+}
+
+.home__input {
+  flex: 1;
+}
+
+.home__iconButton {
+  flex: 0;
+}
